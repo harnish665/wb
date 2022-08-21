@@ -1,0 +1,102 @@
+body {
+
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+.top-container {
+	background-color: #e4f9f5;
+	position: relative;
+	padding-top: 10px;
+}
+a{
+	color: #11999e;
+}
+h1	{
+	font-size: 5.625rem;
+	color: #66bfbf;
+	line-height: 2;
+	font-family: 'Sacramento', sans-serif;
+	margin-top: 50px;
+}
+h2 {
+	color: #66bfbf;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: 2.5rem;
+	margin-top: 10px;
+}
+.my-skills{
+	font-weight: bolder;
+}
+h3{
+	color: #11999e;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.top-cloud {
+	position: relative;
+	left: 200px;
+	margin-top: 10px;
+}
+
+.bottom-cloud {
+	position: absolute;
+
+}
+.p {
+	border-radius: 100px;
+	width: 180px;
+	height: 200px;
+	text-align: justify;
+}
+.skill1 {
+	text-align: justify;
+	margin-left: 15px;
+	line-height: 2;
+	padding-right: 50px;
+}
+.h31{
+	text-align: left;
+}
+.comp {
+	float: left;
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	margin-left: 200px;
+	margin-right: 15px;
+
+
+
+
+}
+.hike {
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+
+
+}
+hr {
+	border-style: dotted;
+	width: 14%;
+	border-radius: 100%;
+
+
+}
+.skill-row {
+	margin-top: 20px;
+	padding-top: 40px;
+}
+.nav ul{
+	color: #11999e;
+	text-decoration: none;
+	display: inline-flex;
+	align-items: flex-end;
+}
+.nav li:hover {
+	background-color: grey;
+	color: white;
+	transition: 2s;
+}
